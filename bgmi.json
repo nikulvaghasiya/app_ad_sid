@@ -1,0 +1,15 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "nk.abc.hdmusicsaver",
+  "fbBannr": "632052770807946_632053197474570a",
+  "fbInter": "632052770807946_632053614141195a",
+  "fbNative": "632052770807946_632053760807847a",
+  "fbNativeBnnr": "632052770807946_632053934141163a",
+  "AdmobBannr": "ca-app-pub-3380634588464539/5759977381a",
+  "AdmobInter": "ca-app-pub-3380634588464539/4446895717a",
+  "AdmobNative": "ca-app-pub-3380634588464539/9507650708a",
+  "admob_pub_id": "pub-3380634588464539a",
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713a",
+  "adType": "fb"
+}
