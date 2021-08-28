@@ -1,7 +1,7 @@
 {
 "error":false,
 "isNewApp":false,
-"app_pkg":"downloader.mp3",
+"app_pkg":"savestatus.whatswebscan.statusdownloader",
 "fbBannr": "868848266895734_868848983562329",
 "fbInter": "868848266895734_868849516895609",
 "fbNative": "868848266895734_868849723562255",
@@ -11,7 +11,8 @@
  "AdmobInterSplash": "ca-app-pub-3940256099942544/1033173712",
  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
-        "admob_pub_id": "pub-3940256099942544",
-        "admob_app_id": "ca-app-pub-3940256099942544~3026104813",
-        "adType":"fb"
+ "isMediation":"yes",
+ "admob_pub_id": "pub-3940256099942544",
+ "admob_app_id": "ca-app-pub-3940256099942544~3026104813",
+  "adType":"fb"
 }
