@@ -1,7 +1,7 @@
  {
         "error":false,
-            "isNewApp":false,
-            "app_pkg":"nk.lyrical.lovely",
+            "isNewApp":true,
+            "app_pkg":"nk.lyricalvideo.lyricalstatusmaker",
            "AdmobBannr":"TS_LOVELYAPP_BANNER_AD",
             "AdmobInter":"TTS_LOVELYAPP_INTERSTITIAL",
             "AdmobInterSplash":"TTS_LOVELYAPP_INTERSTITIAL",
