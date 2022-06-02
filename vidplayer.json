@@ -10,7 +10,7 @@
             "isMediation":"no",
             "admob_pub_id":"pub-3940256099942544",
             "admob_app_id":"ca-app-pub-3940256099942544~3026104813",
-            "api_url":"https://download-all-video.herokuapp.com",
+            "api_url":"https://euphonious-youtiao-87e6a7.netlify.app",
            "adStatus":"high",
             "adType":"admob"
     }
