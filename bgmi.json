@@ -12,5 +12,6 @@
   "AdmobOpenAds": "/21753324030,22492051893/nk.battlegroundmobile.bgmi_AppOpen",
   "admob_pub_id": "pub-1153951777465385a",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713a",
-  "adType": "admob"
+  "adType": "admob",
+  "adMobTime":10
 }
