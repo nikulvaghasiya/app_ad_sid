@@ -15,5 +15,6 @@
             "isMediation":"yes",
             "admob_pub_id":"pub-1307122584714485",
             "admob_app_id":"ca-app-pub-1307122584714485~3026104813",
-            "adType":"admob"
+            "adType":"admob",
+            "adMobTime":30,
     }
