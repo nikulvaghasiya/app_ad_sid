@@ -12,5 +12,6 @@
             "admob_app_id":"ca-app-pub-3940256099942544~3026104813",
             "api_url":"https://my-save-all.herokuapp.com",
            "adStatus":"low",
-            "adType":"admob"
+            "adType":"admob",
+            "adMobTime":20
     }
