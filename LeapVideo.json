@@ -11,7 +11,7 @@
             "AdmobInterSplash":"/21753324030,22492051893/com.nm.videodownloader_Full",
             "AdmobNative":"/21753324030,22492051893/com.nm.videodownloader_Native",
             "AdmobOpenAds":"/21753324030,22492051893/com.nm.videodownloader_Appopen",
-            "api_url":"https://my-save-all.herokuapp.com",
+            "api_url":"http://103.186.184.136:9192",
             "isMediation":"yes",
             "admob_pub_id":"pub-1307122584714485",
             "admob_app_id":"ca-app-pub-1307122584714485~3026104813",
