@@ -6,15 +6,15 @@
             "fbInter":"868848266895734_868849516895609",
             "fbNative":"868848266895734_868849723562255",
             "fbNativeBnnr":"868848266895734_868850346895526",
-            "AdmobBannr":"ca-app-pub-1307122584714485/7671538823",
-            "AdmobInter":"/21753324030,22492051893/com.nm.videodownloader_Full",
-            "AdmobInterSplash":"/21753324030,22492051893/com.nm.videodownloader_Full",
-            "AdmobNative":"/21753324030,22492051893/com.nm.videodownloader_Native",
-            "AdmobOpenAds":"/21753324030,22492051893/com.nm.videodownloader_Appopen",
+            "AdmobBannr":"ca-app-pub-2165398014210687/9471711709",
+            "AdmobInter":"ca-app-pub-2165398014210687/7309702359",
+            "AdmobInterSplash":"ca-app-pub-2165398014210687/7309702359",
+            "AdmobNative":"ca-app-pub-2165398014210687/7860366695",
+            "AdmobOpenAds":"ca-app-pub-2165398014210687/4899446843",
             "api_url":"http://103.186.184.136:9192",
             "isMediation":"yes",
             "admob_pub_id":"pub-1307122584714485",
             "admob_app_id":"ca-app-pub-1307122584714485~3026104813",
             "adType":"admob",
-            "adMobTime":10
+            "adMobTime":3
     }
